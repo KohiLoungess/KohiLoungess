@@ -1,4 +1,4 @@
 - ✨Hey! Hi. my name is Santi although I'm usually called Kohi.
 - 🍀I am very good at managing networks, or so I think, 
-- 🍁Right now I am working on DreamLabsES & PvPRetro.net and MineGames.us but I have worked on others as well.
+- 🍁Right now I am working on MidesProjects & RagedValorant and PlayMides.net but I have worked on others as well.
 - 🌴I hope this information is helpful, if you want to contact me @KohiLounges on Twitter!
