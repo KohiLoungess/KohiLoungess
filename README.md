@@ -16,7 +16,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=KohiLoungess&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="https://i.imgur.com/af4X6ZE.jpg" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=KohiLoungess&icon=0&color=0)](https://visitcount.itsvg.in)
